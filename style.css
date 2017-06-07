@@ -1,0 +1,77 @@
+.nav1{
+				margin-right: 10em;
+				margin-left: 10em;
+				padding-top: 45px;
+
+
+
+}
+.cent{
+				margin-top: 23px;
+				color: #fff;
+
+}
+.head1 {
+				background: url(images/header.jpg)center no-repeat;
+				position: relative;
+			    height: 900px;
+			    position: relative;
+			    width: 100%;
+
+		
+}
+.clean{
+				padding-top: 4em;
+				text-align: center;
+				color: #fff;
+				font-weight: bold;
+				font-size: 75px;
+								
+}
+#point{
+				color: #F1D204;
+				border-radius: 55px;
+
+}
+p{
+				font-size: 15px;
+				font-weight: normal;
+				text-align: center;
+				padding-top: 15px;
+}
+.btn{
+				width: 250px;
+				height: 70px;
+				color: #F1D204;
+				opacity: 0.6;
+
+}
+.learn{
+				padding-top: 35px;
+}
+.about{
+				text-align: center;
+				height: 300px
+
+}
+.boll{
+				font-weight: bold;
+				font-size: 30px;
+}				
+.proj{
+				text-align: center;
+				background: url(images/pattern.png);
+				height: 150px;
+				padding-top: 25px;
+}		
+img{
+				padding: 0px;
+				margin: 0px;
+				border: none;
+
+}	
+figure{
+				padding-left: 20px;
+				display: inline-block;
+}	
+
